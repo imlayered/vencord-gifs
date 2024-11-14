@@ -280,7 +280,7 @@ export default definePlugin({
     settings,
     start() {
         this.registeredCommands = [];
-        for (let i = 1; i <= 5; i++) {
+        for (let i = 1; i <= 20; i++) {
             const nameKey = `command${i}Name`;
             const messageKey = `command${i}Message`;
             const name = settings.store[nameKey];
