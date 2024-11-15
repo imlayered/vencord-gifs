@@ -274,7 +274,7 @@ function sendMessage(channelId, message) {
 }
 
 export default definePlugin({
-    name: "SlashGIFs",
+    name: "Macros",
     description: "Turns a slash (/) command into a message and/or GIF",
     authors: [Devs.imlayered], // this doesn't work and idk why
     settings,
