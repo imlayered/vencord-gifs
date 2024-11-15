@@ -1,4 +1,4 @@
-# Slash command macros for Vencord
+# Slash command macros/GIFs for Vencord
 
 This was made because [@koqel](https://github.com/koqel) wanted me to make it
 
