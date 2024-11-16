@@ -1,5 +1,5 @@
 /*
- * Licensed under GPL-3.0, made by github.com/imlayered | https://github.com/imlayered/vencord-gifs?tab=GPL-3.0-1-ov-file
+ * Licensed under GPL-3.0, made by github.com/imlayered | https://github.com/imlayered/vencord-macros?tab=GPL-3.0-1-ov-file
  * Some of this code was debugged with AI (ChatGPT4o (Github Copilot) and ChatGPTo1), some is grabbed from other plugins, and some is written by me.
  */
 
